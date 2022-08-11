@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+.WebName {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color: #7300a0;
+}
+.Adventure_purple_guy {
+    margin-top: 100px;
+}
+.Origin {
+    color: #7300a0;
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 800px;
+    margin-top: -250px;
+    text-decoration: underline;
+}
+.Info_1 {
+    font-family: 'Quicksand', sans-serif;
+    color: #7300a0;
+    margin-left: 650px;
+}
